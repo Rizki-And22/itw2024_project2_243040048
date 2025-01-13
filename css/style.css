@@ -64,21 +64,23 @@ section {
   background-color: #ca7310;
   color: #fff;
 }
-.bg-cover {
-  background-position: center !important;
-  /* background-size: cover !important; */
-  /* background-repeat: no-repeat !important; */
-}
+
 
 /* Slider */
 .slide-1 {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../images/gambar1.jpg);
+    url(../images/IMG_7311.jpg);
 }
 
 .slide-2 {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url(../images/gambar2.jpg);
+}
+
+.bg-cover {
+  background-position: center ;
+  background-size: cover ;
+   background-repeat: no-repeat ;
 }
 
 .carousel-control-prev,

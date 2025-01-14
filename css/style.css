@@ -26,7 +26,7 @@ a {
 }
 
 a:hover {
-  color: #f58d17;
+  color: #c505ff;
 }
 
 img {
@@ -55,13 +55,13 @@ section {
 .btn-brand {
   color: #fff;
   font-weight: 500;
-  border-color: #f58d17;
-  background-color: #f58d17;
+  border-color:#c505ff;
+  background-color:#c505ff;
 }
 
 .btn-brand:hover {
-  border-color: #ca7310;
-  background-color: #ca7310;
+  border-color: #9221b4;
+  background-color: #c505ff;
   color: #fff;
 }
 
@@ -69,12 +69,12 @@ section {
 /* Slider */
 .slide-1 {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../images/IMG_7311.jpg);
+    url(../images/foto\ bareng\ bulba.JPG);
 }
 
 .slide-2 {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../images/gambar2.jpg);
+    url(../images/IMG-20240702-WA0042.jpg);
 }
 
 .bg-cover {
@@ -96,7 +96,7 @@ section {
   width: 60px;
   height: 2px;
   display: block;
-  background-color: #f58d17;
+  background-color: #c505ff;
 }
 
 /* intro text */
@@ -120,18 +120,18 @@ section {
 }
 
 #menu .nav-pills .nav-link.active {
-  background-color: #f58d17;
+  background-color: #c505ff;
   color: #fff;
 }
 
 .menu-item .stars {
-  color: #f58d17;
+  color: #c505ff;
 }
 
 /* Team */
 .team-member img {
   max-width: 140px;
-  box-shadow: -10px -10px 0 #f58d17;
+  box-shadow: -10px -10px 0 #c505ff;
   border-radius: 100px;
 }
 
@@ -142,7 +142,7 @@ section {
 
 #reservation .from-control:focus {
   box-shadow: none;
-  border-color: #f58d17;
+  border-color: #c505ff;
 }
 
 #reservation input.from-control {

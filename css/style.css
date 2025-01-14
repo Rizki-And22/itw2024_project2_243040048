@@ -19,7 +19,7 @@ h6 {
 }
 
 a {
-  color: #222;
+  color: #c505ff;
   text-decoration: none;
   transition: all 0.4s;
   font-weight: 600;
@@ -43,7 +43,7 @@ section {
 }
 
 .shadow-on-hover:hover {
-  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 10px 40px #c505ff;
 }
 
 /* Btn */
